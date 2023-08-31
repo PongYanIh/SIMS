@@ -22,7 +22,7 @@
             $title = "Class List";
             $add = "./new_classadd.php";
             $edit = "";
-            $add_btn = true; 
+            $add_btn = false; 
 			$sort_btn = false; $edit_btn = false;
 			$search_input = false;
             include './templates/back_tab.php'

@@ -22,7 +22,7 @@
             
             $add = "./new_subjectadd.php";
             $edit = "";
-            $add_btn = true; $edit_btn = $search_input = $delete_btn = false;
+            $add_btn = false; $edit_btn = $search_input = $delete_btn = false;
             include './templates/back_tab.php';
       ?>
 
